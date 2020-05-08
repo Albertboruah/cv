@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+
+    background-color: #fff;
+    color: #777;
+    font-family: 'Lato', 'Arial', sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    text-rendering: optimizeLegibility;
+}
+
+.btn {
+    display: inline-block;
+    text-decoration: none;
+    color: black;
+    border-radius: 200px;
+
+}
